@@ -111,9 +111,12 @@ p{
     margin-bottom: 50px;
     transition: transform 0.5s;
     
+    
 }
-.c0l-4 img{
-    width: 100%
+.col-4 img{
+    width: 250px;
+    height: 250px;
+    margin: 35px;
 }
 .title{
     text-align: center;
@@ -545,6 +548,9 @@ form a{
 
 .contact-form button:hover {
     background-color: #555;
+}
+.fa-star,.fa-star-half{
+    color: gold;
 }
 
 
